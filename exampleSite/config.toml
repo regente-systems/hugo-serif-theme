@@ -13,8 +13,8 @@ theme = "hugo-serif-theme"
     show_call_box = true
 
   [params.logo]
-    mobile = "images/automs_logo_1.svg"
-    desktop = "images/automs_logo_1.svg"
+    mobile = "images/automs_logo_2.svg"
+    desktop = "images/automs_logo_2.svg"
     desktop_height = "36px"
     alt = "AutomationStrom PaaS"
 
