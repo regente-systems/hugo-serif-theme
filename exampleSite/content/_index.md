@@ -5,6 +5,6 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# Automation Strom Data Broker PaaS
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Automation Strom is a new PaaS ofering end to end solution for your data brokering services, wait new informations soon.

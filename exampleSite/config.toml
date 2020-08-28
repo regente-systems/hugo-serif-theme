@@ -1,6 +1,6 @@
-baseURL = "www.example.com"
+baseURL = "automs-home-prewview.netlify.app"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "AutoMS Preview"
 themesDir = "../.."
 theme = "hugo-serif-theme"
 
