@@ -15,7 +15,8 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/automs_logo_2.svg"
     desktop = "images/automs_logo_2.svg"
-    desktop_height = "36px"
+    desktop_height = "50px"
+    mobile_height = "25px"
     alt = "AutomationStrom PaaS"
 
   [params.homepage_meta_tags]
