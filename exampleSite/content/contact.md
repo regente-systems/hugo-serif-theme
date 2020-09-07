@@ -12,7 +12,7 @@ We are available 24/7 via tools
 | Tuesday   | 8:30am - 5:00pm |
 | Wednesday | 8:30am - 5:00pm |
 | Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
+| Friday    | Closed - Closed |
 | Saturday  | Closed          |
 | Saturday  | Closed          |
 
